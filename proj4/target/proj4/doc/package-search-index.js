@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"in.co.sunrays.bean"},{"l":"in.co.sunrays.controller"},{"l":"in.co.sunrays.exception"},{"l":"in.co.sunrays.model"},{"l":"in.co.sunrays.test"},{"l":"in.co.sunrays.util"}]
